@@ -14,12 +14,12 @@ Churn prediction using logs data from streaming musing platform 'Sparkify' (not 
 
 File Descriptions
 
-jupyter notebook: sparkify
+jupyter notebook: sparkify project
 
 
 Results
 
-we could make predictions with F1 result of 0.8976 - logistic regression model. 
+we could make predictions with F1 result of 0.8976 - logistic regression model and decision tree. 
 
 
 Licensing, Authors, Acknowledgements
