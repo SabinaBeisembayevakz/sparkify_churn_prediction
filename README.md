@@ -19,7 +19,7 @@ jupyter notebook: sparkify project
 
 Results
 
-we could make predictions with F1 result of 0.8976 - logistic regression model and decision tree. 
+logistic regression model, decision tree and random forest have the highest F1 scores of 0.74. 
 
 
 Licensing, Authors, Acknowledgements
